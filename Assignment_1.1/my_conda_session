@@ -1,0 +1,3843 @@
+Script started on 2023-10-12 11:36:13+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="72" LINES="34"]
+[?2004h]0;saikumar45@TIGER02568: ~[01;32msaikumar45@TIGER02568[00m:[01;34m~[00m$ clear
+[?2004l[H[2J[3J[?2004h]0;saikumar45@TIGER02568: ~[01;32msaikumar45@TIGER02568[00m:[01;34m~[00m$ [K]0;saikumar45@TIGER02568: ~[01;32msaikumar45@TIGER02568[00m:[01;34m~[00m$ conda inba[K=[K[K[K[K[K[K[K[K[K[Kbash 
+.bash_history                                      .viminfo
+.bash_logout                                       Assignment1_GIT/
+.bashrc                                            Miniconda3-latest-Linux-x86_64.sh
+.cache/                                            Miniconda3-latest-Linux-x86_64.sh:Zone.Identifier
+.gitconfig                                         blink/
+.lesshst                                           my_conda_session
+.local/                                            my_git_session
+.motd_shown                                        my_project/
+.profile                                           my_unix_session
+.ssh/                                              mylibgit/
+.sudo_as_admin_successful                          ticgit/
+]0;saikumar45@TIGER02568: ~[01;32msaikumar45@TIGER02568[00m:[01;34m~[00m$ bash Miniconda3-latest-Linux-x86_64.sh
+[?2004l
+Welcome to Miniconda3 py311_23.5.2-0
+
+In order to continue the installation process, please review the license
+agreement.
+Please, press ENTER to continue
+>>> 
+======================================
+End User License Agreement - Miniconda
+======================================
+
+Copyright 2015-2023, Anaconda, Inc.
+
+All rights reserved under the 3-clause BSD License:
+
+This End User License Agreement (the "Agreement") is a legal agreement between you and Anaconda, Inc. ("Anaconda") and g
+overns your use of Miniconda.
+
+Subject to the terms of this Agreement, Anaconda hereby grants you a non-exclusive, non-transferable license to:
+
+  * Install and use the Miniconda,
+  * Modify and create derivative works of sample source code delivered in Miniconda subject to the Terms of Service for 
+the Repository (as defined hereinafter) available at https://www.anaconda.com/terms-of-service, and
+  * Redistribute code files in source (if provided to you by Anaconda as source) and binary forms, with or without modif
+ication subject to the requirements set forth below.
+
+Anaconda may, at its option, make available patches, workarounds or other updates to Miniconda. Unless the updates are p
+rovided with their separate governing terms, they are deemed part of Miniconda licensed to you as provided in this Agree
+ment. This Agreement does not entitle you to any support for Miniconda.
+
+Anaconda reserves all rights not expressly granted to you in this Agreement.
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the followi
+ng conditions are met:
+
+  * Redistributions of source code must retain the above copyright notice, this list of conditions and the following dis
+[7m--More--[27m[K
+Do you accept the license terms? [yes|no]
+[no] >>> 
+The license agreement wasn't approved, aborting installation.
+[?2004h]0;saikumar45@TIGER02568: ~[01;32msaikumar45@TIGER02568[00m:[01;34m~[00m$ 
+[?2004l[?2004h]0;saikumar45@TIGER02568: ~[01;32msaikumar45@TIGER02568[00m:[01;34m~[00m$ 
+[?2004l[?2004h]0;saikumar45@TIGER02568: ~[01;32msaikumar45@TIGER02568[00m:[01;34m~[00m$ 
+[?2004l[?2004h]0;saikumar45@TIGER02568: ~[01;32msaikumar45@TIGER02568[00m:[01;34m~[00m$ 
+[?2004l[?2004h]0;saikumar45@TIGER02568: ~[01;32msaikumar45@TIGER02568[00m:[01;34m~[00m$ bash Miniconda3-latest-Linux-x86_64.sh
+[?2004l
+Welcome to Miniconda3 py311_23.5.2-0
+
+In order to continue the installation process, please review the license
+agreement.
+Please, press ENTER to continue
+>>> 
+======================================
+End User License Agreement - Miniconda
+======================================
+
+Copyright 2015-2023, Anaconda, Inc.
+
+All rights reserved under the 3-clause BSD License:
+
+This End User License Agreement (the "Agreement") is a legal agreement between you and Anaconda, Inc. ("Anaconda") and g
+overns your use of Miniconda.
+
+Subject to the terms of this Agreement, Anaconda hereby grants you a non-exclusive, non-transferable license to:
+
+  * Install and use the Miniconda,
+  * Modify and create derivative works of sample source code delivered in Miniconda subject to the Terms of Service for 
+the Repository (as defined hereinafter) available at https://www.anaconda.com/terms-of-service, and
+  * Redistribute code files in source (if provided to you by Anaconda as source) and binary forms, with or without modif
+ication subject to the requirements set forth below.
+
+Anaconda may, at its option, make available patches, workarounds or other updates to Miniconda. Unless the updates are p
+rovided with their separate governing terms, they are deemed part of Miniconda licensed to you as provided in this Agree
+ment. This Agreement does not entitle you to any support for Miniconda.
+
+Anaconda reserves all rights not expressly granted to you in this Agreement.
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the followi
+ng conditions are met:
+
+  * Redistributions of source code must retain the above copyright notice, this list of conditions and the following dis
+[7m--More--[27mclaimer.
+[7m--More--[27m  * Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following 
+[7m--More--[27mdisclaimer in the documentation and/or other materials provided with the distribution.
+[7m--More--[27m  * Neither the name of Anaconda nor the names of its contributors may be used to endorse or promote products derived fr
+[7m--More--[27mom this software without specific prior written permission.
+[7m--More--[27m[K
+[7m--More--[27mYou acknowledge that, as between you and Anaconda, Anaconda owns all right, title, and interest, including all intellect
+[7m--More--[27mual property rights, in and to Miniconda and, with respect to third-party products distributed with or through Miniconda
+[7m--More--[27m, the applicable third-party licensors own all right, title and interest, including all intellectual property rights, in
+[7m--More--[27m and to such products. If you send or transmit any communications or materials to Anaconda suggesting or recommending ch
+[7m--More--[27manges to the software or documentation, including without limitation, new features or functionality relating thereto, or
+[7m--More--[27m any comments, questions, suggestions or the like ("Feedback"), Anaconda is free to use such Feedback. You hereby assign
+[7m--More--[27m to Anaconda all right, title, and interest in, and Anaconda is free to use, without any attribution or compensation to 
+[7m--More--[27many party, any ideas, know-how, concepts, techniques or other intellectual property rights contained in the Feedback, fo
+[7m--More--[27mr any purpose whatsoever, although Anaconda is not required to use any Feedback.
+[7m--More--[27m[K
+[7m--More--[27mDISCLAIMER
+[7m--More--[27m==========
+[7m--More--[27m[K
+[7m--More--[27mTHIS SOFTWARE IS PROVIDED BY ANACONDA AND ITS CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT
+[7m--More--[27m NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EV
+[7m--More--[27mENT SHALL ANACONDA BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDI
+[7m--More--[27mNG, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUP
+[7m--More--[27mTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENC
+[7m--More--[27mE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+[7m--More--[27m[K
+[7m--More--[27mTO THE MAXIMUM EXTENT PERMITTED BY LAW, ANACONDA AND ITS AFFILIATES SHALL NOT BE LIABLE FOR ANY SPECIAL, INCIDENTAL, PUN
+[7m--More--[27mITIVE OR CONSEQUENTIAL DAMAGES, OR ANY LOST PROFITS, LOSS OF USE, LOSS OF DATA OR LOSS OF GOODWILL, OR THE COSTS OF PROC
+[7m--More--[27mURING SUBSTITUTE PRODUCTS, ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT OR THE USE OR PERFORMANCE OF MINICONDA, W
+[7m--More--[27mHETHER SUCH LIABILITY ARISES FROM ANY CLAIM BASED UPON BREACH OF CONTRACT, BREACH OF WARRANTY, TORT (INCLUDING NEGLIGENC
+[7m--More--[27mE), PRODUCT LIABILITY OR ANY OTHER CAUSE OF ACTION OR THEORY OF LIABILITY. IN NO EVENT WILL THE TOTAL CUMULATIVE LIABILI
+[7m--More--[27mTY OF ANACONDA AND ITS AFFILIATES UNDER OR ARISING OUT OF THIS AGREEMENT EXCEED 10.00 U.S. DOLLARS.
+[7m--More--[27m[K
+[7m--More--[27mMiscellaneous
+[7m--More--[27m=============
+[7m--More--[27m[K
+[7m--More--[27mIf you want to terminate this Agreement, you may do so by discontinuing use of Miniconda. Anaconda may, at any time, ter
+[7m--More--[27mminate this Agreement and the license granted hereunder if you fail to comply with any term of this Agreement. Upon any 
+[7m--More--[27mtermination of this Agreement, you agree to promptly discontinue use of the Miniconda and destroy all copies in your pos
+[7m--More--[27msession or control. Upon any termination of this Agreement all provisions survive except for the licenses granted to you
+[7m--More--[27m.[K
+[7m--More--[27m[K
+[7m--More--[27mThis Agreement is governed by and construed in accordance with the internal laws of the State of Texas without giving ef
+[7m--More--[27mfect to any choice or conflict of law provision or rule that would require or permit the application of the laws of any 
+[7m--More--[27mjurisdiction other than those of the State of Texas. Any legal suit, action, or proceeding arising out of or related to 
+[7m--More--[27mthis Agreement or the licenses granted hereunder by you must be instituted exclusively in the federal courts of the Unit
+[7m--More--[27med States or the courts of the State of Texas in each case located in Travis County, Texas, and you irrevocably submit t
+[7m--More--[27mo the jurisdiction of such courts in any such suit, action, or proceeding.
+[7m--More--[27m[K
+[7m--More--[27mNotice of Third Party Software Licenses
+[7m--More--[27m=======================================
+[7m--More--[27m[K
+[7m--More--[27mMiniconda provides access to a repository (the "Repository") which contains software packages or tools licensed on an op
+[7m--More--[27men source basis from third parties and binary packages of these third party tools. These third party software packages o
+[7m--More--[27mr tools are provided on an "as is" basis and are subject to their respective license agreements as well as this Agreemen
+[7m--More--[27mt and the Terms of Service for the Repository located at https://www.anaconda.com/terms-of-service; provided, however, n
+[7m--More--[27mo restriction contained in the Terms of Service shall be construed so as to limit Your ability to download the packages 
+[7m--More--[27mcontained in Miniconda provided you comply with the license for each such package. These licenses may be accessed from w
+[7m--More--[27mithin the Miniconda software[1] or https://www.anaconda.com/legal. Information regarding which license is applicable is 
+[7m--More--[27mavailable from within many of the third party software packages and tools and at https://repo.anaconda.com/pkgs/main/ an
+[7m--More--[27md https://repo.anaconda.com/pkgs/r/. Anaconda reserves the right, in its sole discretion, to change which third party to
+[7m--More--[27mols are included in the Repository accessible through Miniconda.
+[7m--More--[27m[K
+[7m--More--[27m[K
+[7m--More--[27mIntel Math Kernel Library
+[7m--More--[27m-------------------------
+[7m--More--[27m[K
+[7m--More--[27mMiniconda provides access to re-distributable, run-time, shared-library files from the Intel Math Kernel Library ("MKL b
+[7m--More--[27minaries").
+[7m--More--[27m[K
+[7m--More--[27mCopyright 2018 Intel Corporation. License available at https://software.intel.com/en-us/license/intel-simplified-softwar
+[7m--More--[27me-license (the "MKL License").
+[7m--More--[27m[K
+[7m--More--[27mYou may use and redistribute the MKL binaries, without modification, provided the following conditions are met:
+[7m--More--[27m[K
+[7m--More--[27m  * Redistributions must reproduce the above copyright notice and the following terms of use in the MKL binaries and in 
+[7m--More--[27mthe documentation and/or other materials provided with the distribution.
+[7m--More--[27m  * Neither the name of Intel nor the names of its suppliers may be used to endorse or promote products derived from the
+[7m--More--[27m MKL binaries without specific prior written permission.
+[7m--More--[27m  * No reverse engineering, decompilation, or disassembly of the MKL binaries is permitted.
+[7m--More--[27m[K
+[7m--More--[27mYou are specifically authorized to use and redistribute the MKL binaries with your installation of Miniconda subject to 
+[7m--More--[27mthe terms set forth in the MKL License. You are also authorized to redistribute the MKL binaries with Miniconda or in th
+[7m--More--[27me Anaconda package that contains the MKL binaries. If needed, instructions for removing the MKL binaries after installat
+[7m--More--[27mion of Miniconda are available at https://docs.anaconda.com.
+[7m--More--[27m[K
+[7m--More--[27mcuDNN Software
+[7m--More--[27m--------------
+[7m--More--[27m[K
+[7m--More--[27mMiniconda also provides access to cuDNN software binaries ("cuDNN binaries") from NVIDIA Corporation. You are specifical
+[7m--More--[27mly authorized to use the cuDNN binaries with your installation of Miniconda subject to your compliance with the license 
+[7m--More--[27magreement located at https://docs.nvidia.com/deeplearning/sdk/cudnn-sla/index.html. You are also authorized to redistrib
+[7m--More--[27mute the cuDNN binaries with an Miniconda package that contains the cuDNN binaries. You can add or remove the cuDNN binar
+[7m--More--[27mies utilizing the install and uninstall features in Miniconda.
+[7m--More--[27m[K
+[7m--More--[27mcuDNN binaries contain source code provided by NVIDIA Corporation.
+[7m--More--[27m[K
+[7m--More--[27mArm Performance Libraries
+[7m--More--[27m-------------------------
+[7m--More--[27m[K
+[7m--More--[27mArm Performance Libraries (Free Version): Anaconda provides access to software and related documentation from the Arm Pe
+[7m--More--[27mrformance Libraries ("Arm PL") provided by Arm Limited. By installing or otherwise accessing the Arm PL, you acknowledge
+[7m--More--[27m and agree that use and distribution of the Arm PL is subject to your compliance with the Arm PL end user license agreem
+[7m--More--[27ment located at: https://developer.arm.com/tools-and-software/server-and-hpc/downloads/arm-performance-libraries/eula.
+[7m--More--[27m[K
+[7m--More--[27mExport; Cryptography Notice
+===========================
+
+You must comply with all domestic and international export laws and regulations that apply to the software, which includ
+e restrictions on destinations, end users, and end use. Miniconda includes cryptographic software. The country in which 
+you currently reside may have restrictions on the import, possession, use, and/or re-export to another country, of encry
+ption software. BEFORE using any encryption software, please check your country's laws, regulations and policies concern
+ing the import, possession, or use, and re-export of encryption software, to see if this is permitted. See the Wassenaar
+ Arrangement http://www.wassenaar.org/ for more information.
+
+Anaconda has self-classified this software as Export Commodity Control Number (ECCN) EAR99, which includes mass market i
+nformation security software using or performing cryptographic functions with asymmetric algorithms. No license is requi
+red for export of this software to non-embargoed countries.
+
+The Intel Math Kernel Library contained in Miniconda is classified by Intel as ECCN 5D992.c with no license required for
+ export to non-embargoed countries.
+
+The following packages listed on https://www.anaconda.com/cryptography are included in the Repository accessible through
+ Miniconda that relate to cryptography.
+
+Last updated March 21, 2022
+
+
+Do you accept the license terms? [yes|no]
+[no] >>> yes
+
+Miniconda3 will now be installed into this location:
+/home/saikumar45/miniconda3
+
+  - Press ENTER to confirm the location
+  - Press CTRL-C to abort the installation
+  - Or specify a different location below
+
+[/home/saikumar45/miniconda3] >>> 
+PREFIX=/home/saikumar45/miniconda3
+Unpacking payload ...
+  0%|                                                                                            | 0/70 [00:00<?, ?it/s]Extracting : tqdm-4.65.0-py311h92b7b1e_0.conda:   0%|                                            | 0/70 [00:00<?, ?it/s]Extracting : tqdm-4.65.0-py311h92b7b1e_0.conda:   1%|▌                                   | 1/70 [00:00<00:07,  9.41it/s]Extracting : setuptools-67.8.0-py311h06a4308_0.conda:   1%|▍                             | 1/70 [00:00<00:07,  9.41it/s]Extracting : setuptools-67.8.0-py311h06a4308_0.conda:   3%|▊                             | 2/70 [00:00<00:15,  4.53it/s]Extracting : _openmp_mutex-5.1-1_gnu.conda:   3%|█▏                                      | 2/70 [00:00<00:15,  4.53it/s]Extracting : requests-2.29.0-py311h06a4308_0.conda:   4%|█▎                              | 3/70 [00:00<00:14,  4.53it/s]Extracting : urllib3-1.26.16-py311h06a4308_0.conda:   6%|█▊                              | 4/70 [00:00<00:14,  4.53it/s]Extracting : xz-5.4.2-h5eee18b_0.conda:   7%|███▏                                        | 5/70 [00:00<00:14,  4.53it/s]Extracting : jsonpatch-1.32-pyhd3eb1b0_0.conda:   9%|███                                 | 6/70 [00:00<00:14,  4.53it/s]Extracting : certifi-2023.5.7-py311h06a4308_0.conda:  10%|███                            | 7/70 [00:00<00:13,  4.53it/s]Extracting : jsonpointer-2.1-pyhd3eb1b0_0.conda:  11%|████                               | 8/70 [00:00<00:13,  4.53it/s]Extracting : tk-8.6.12-h1ccaba5_0.conda:  13%|█████▌                                     | 9/70 [00:00<00:13,  4.53it/s]Extracting : libffi-3.4.4-h6a678d5_0.conda:  14%|█████▌                                 | 10/70 [00:00<00:13,  4.53it/s]Extracting : charset-normalizer-2.0.4-pyhd3eb1b0_0.conda:  16%|███▉                     | 11/70 [00:00<00:13,  4.53it/s]Extracting : pip-23.1.2-py311h06a4308_0.conda:  17%|██████▏                             | 12/70 [00:00<00:12,  4.53it/s]Extracting : pip-23.1.2-py311h06a4308_0.conda:  19%|██████▋                             | 13/70 [00:00<00:03, 18.13it/s]Extracting : pycosat-0.6.4-py311h5eee18b_0.conda:  19%|██████▏                          | 13/70 [00:00<00:03, 18.13it/s]Extracting : boltons-23.0.0-py311h06a4308_0.conda:  20%|██████▍                         | 14/70 [00:00<00:03, 18.13it/s]Extracting : pycparser-2.21-pyhd3eb1b0_0.conda:  21%|███████▌                           | 15/70 [00:00<00:03, 18.13it/s]Extracting : libsolv-0.7.22-he621ea3_0.conda:  23%|████████▍                            | 16/70 [00:00<00:02, 18.13it/s]Extracting : icu-58.2-he6710b0_3.conda:  24%|██████████▍                                | 17/70 [00:00<00:02, 18.13it/s]Extracting : libedit-3.1.20221030-h5eee18b_0.conda:  26%|███████▉                       | 18/70 [00:00<00:02, 18.13it/s]Extracting : _libgcc_mutex-0.1-main.conda:  27%|██████████▊                             | 19/70 [00:00<00:02, 18.13it/s]Extracting : libnghttp2-1.52.0-h2d74bed_1.conda:  29%|█████████▋                        | 20/70 [00:00<00:02, 18.13it/s]Extracting : pcre2-10.37-he7ceb23_1.conda:  30%|████████████                            | 21/70 [00:00<00:02, 18.13it/s]Extracting : toolz-0.12.0-py311h06a4308_0.conda:  31%|██████████▋                       | 22/70 [00:00<00:02, 18.13it/s]Extracting : libarchive-3.6.2-h6ac8c49_2.conda:  33%|███████████▌                       | 23/70 [00:00<00:02, 18.13it/s]Extracting : pybind11-abi-4-hd3eb1b0_1.conda:  34%|████████████▋                        | 24/70 [00:00<00:02, 18.13it/s]Extracting : ruamel.yaml-0.17.21-py311h5eee18b_0.conda:  36%|█████████▋                 | 25/70 [00:00<00:02, 18.13it/s]Extracting : bzip2-1.0.8-h7b6447c_0.conda:  37%|██████████████▊                         | 26/70 [00:00<00:02, 18.13it/s]Extracting : libuuid-1.41.5-h5eee18b_0.conda:  39%|██████████████▎                      | 27/70 [00:00<00:02, 18.13it/s]Extracting : conda-package-handling-2.1.0-py311h06a4308_0.conda:  40%|███████▏          | 28/70 [00:00<00:02, 18.13it/s]Extracting : brotlipy-0.7.0-py311h5eee18b_1002.conda:  41%|████████████                 | 29/70 [00:00<00:02, 18.13it/s]Extracting : tzdata-2023c-h04d1e81_0.conda:  43%|████████████████▋                      | 30/70 [00:00<00:02, 18.13it/s]Extracting : libssh2-1.10.0-hdbd6064_2.conda:  44%|████████████████▍                    | 31/70 [00:00<00:02, 18.13it/s]Extracting : pysocks-1.7.1-py311h06a4308_0.conda:  46%|███████████████                  | 32/70 [00:00<00:02, 18.13it/s]Extracting : packaging-23.0-py311h06a4308_0.conda:  47%|███████████████                 | 33/70 [00:00<00:02, 18.13it/s]Extracting : pluggy-1.0.0-py311h06a4308_1.conda:  49%|████████████████▌                 | 34/70 [00:00<00:01, 18.13it/s]Extracting : libmamba-1.4.1-h2dafd23_1.conda:  50%|██████████████████▌                  | 35/70 [00:00<00:01, 18.13it/s]Extracting : libgcc-ng-11.2.0-h1234567_1.conda:  51%|██████████████████                 | 36/70 [00:00<00:01, 18.13it/s]Extracting : pyopenssl-23.0.0-py311h06a4308_0.conda:  53%|███████████████▊              | 37/70 [00:00<00:01, 18.13it/s]Extracting : krb5-1.20.1-h143b758_1.conda:  54%|█████████████████████▋                  | 38/70 [00:00<00:01, 18.13it/s]Extracting : reproc-14.2.4-h295c915_1.conda:  56%|█████████████████████▏                | 39/70 [00:00<00:01, 18.13it/s]Extracting : libcurl-8.1.1-h251f7ec_1.conda:  57%|█████████████████████▋                | 40/70 [00:00<00:01, 18.13it/s]Extracting : conda-package-streaming-0.8.0-py311h06a4308_0.conda:  59%|█████████▉       | 41/70 [00:00<00:01, 18.13it/s]Extracting : python-3.11.4-h955ad1f_0.conda:  60%|██████████████████████▊               | 42/70 [00:01<00:01, 18.13it/s]Extracting : python-3.11.4-h955ad1f_0.conda:  61%|███████████████████████▎              | 43/70 [00:01<00:00, 32.34it/s]Extracting : libstdcxx-ng-11.2.0-h1234567_1.conda:  61%|███████████████████▋            | 43/70 [00:01<00:00, 32.34it/s]Extracting : idna-3.4-py311h06a4308_0.conda:  63%|███████████████████████▉              | 44/70 [00:01<00:00, 32.34it/s]Extracting : lz4-c-1.9.4-h6a678d5_0.conda:  64%|█████████████████████████▋              | 45/70 [00:01<00:00, 32.34it/s]Extracting : sqlite-3.41.2-h5eee18b_0.conda:  66%|████████████████████████▉             | 46/70 [00:01<00:00, 32.34it/s]Extracting : yaml-cpp-0.7.0-h295c915_1.conda:  67%|████████████████████████▊            | 47/70 [00:01<00:00, 32.34it/s]Extracting : ca-certificates-2023.05.30-h06a4308_0.conda:  69%|█████████████████▏       | 48/70 [00:01<00:00, 32.34it/s]Extracting : conda-content-trust-0.1.3-py311h06a4308_0.conda:  70%|██████████████▋      | 49/70 [00:01<00:00, 32.34it/s]Extracting : ld_impl_linux-64-2.38-h1181459_1.conda:  71%|█████████████████████▍        | 50/70 [00:01<00:00, 32.34it/s]Extracting : six-1.16.0-pyhd3eb1b0_1.conda:  73%|████████████████████████████▍          | 51/70 [00:01<00:00, 32.34it/s]Extracting : zstandard-0.19.0-py311h5eee18b_0.conda:  74%|██████████████████████▎       | 52/70 [00:01<00:00, 32.34it/s]Extracting : cffi-1.15.1-py311h5eee18b_3.conda:  76%|██████████████████████████▌        | 53/70 [00:01<00:00, 32.34it/s]Extracting : fmt-9.1.0-hdb19cb5_0.conda:  77%|████████████████████████████████▍         | 54/70 [00:01<00:00, 32.34it/s]Extracting : zstd-1.5.5-hc292b87_0.conda:  79%|████████████████████████████████▏        | 55/70 [00:01<00:00, 32.34it/s]Extracting : ncurses-6.4-h6a678d5_0.conda:  80%|████████████████████████████████        | 56/70 [00:01<00:00, 32.34it/s]Extracting : conda-23.5.2-py311h06a4308_0.conda:  81%|███████████████████████████▋      | 57/70 [00:01<00:00, 32.34it/s]Extracting : libmambapy-1.4.1-py311h2dafd23_1.conda:  83%|████████████████████████▊     | 58/70 [00:01<00:00, 32.34it/s]Extracting : cryptography-39.0.1-py311h9ce1e76_2.conda:  84%|██████████████████████▊    | 59/70 [00:01<00:00, 32.34it/s]Extracting : conda-libmamba-solver-23.5.0-py311h06a4308_0.conda:  86%|███████████████▍  | 60/70 [00:01<00:00, 32.34it/s]Extracting : readline-8.2-h5eee18b_0.conda:  87%|█████████████████████████████████▉     | 61/70 [00:01<00:00, 32.34it/s]Extracting : libev-4.33-h7f8727e_1.conda:  89%|████████████████████████████████████▎    | 62/70 [00:01<00:00, 32.34it/s]Extracting : reproc-cpp-14.2.4-h295c915_1.conda:  90%|██████████████████████████████▌   | 63/70 [00:01<00:00, 32.34it/s]Extracting : wheel-0.38.4-py311h06a4308_0.conda:  91%|███████████████████████████████   | 64/70 [00:01<00:00, 32.34it/s]Extracting : c-ares-1.19.0-h5eee18b_0.conda:  93%|███████████████████████████████████▎  | 65/70 [00:01<00:00, 32.34it/s]Extracting : openssl-3.0.9-h7f8727e_0.conda:  94%|███████████████████████████████████▊  | 66/70 [00:01<00:00, 32.34it/s]Extracting : libgomp-11.2.0-h1234567_1.conda:  96%|███████████████████████████████████▍ | 67/70 [00:01<00:00, 32.34it/s]Extracting : libxml2-2.10.3-hcbfbd50_0.conda:  97%|███████████████████████████████████▉ | 68/70 [00:01<00:00, 32.34it/s]ExtractScript started on 2023-10-12 12:06:23+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="120" LINES="30"]
+[?2004h(base) ]0;saikumar45@TIGER02568: ~[01;32msaikumar45@TIGER02568[00m:[01;34m~[00m$ conda list
+[?2004l# packages in environment at /home/saikumar45/miniconda3:
+#
+# Name                    Version                   Build  Channel
+_libgcc_mutex             0.1                        main  
+_openmp_mutex             5.1                       1_gnu  
+boltons                   23.0.0          py311h06a4308_0  
+brotlipy                  0.7.0           py311h5eee18b_1002  
+bzip2                     1.0.8                h7b6447c_0  
+c-ares                    1.19.0               h5eee18b_0  
+ca-certificates           2023.05.30           h06a4308_0  
+certifi                   2023.5.7        py311h06a4308_0  
+cffi                      1.15.1          py311h5eee18b_3  
+charset-normalizer        2.0.4              pyhd3eb1b0_0  
+conda                     23.5.2          py311h06a4308_0  
+conda-content-trust       0.1.3           py311h06a4308_0  
+conda-libmamba-solver     23.5.0          py311h06a4308_0  
+conda-package-handling    2.1.0           py311h06a4308_0  
+conda-package-streaming   0.8.0           py311h06a4308_0  
+cryptography              39.0.1          py311h9ce1e76_2  
+fmt                       9.1.0                hdb19cb5_0  
+icu                       58.2                 he6710b0_3  
+idna                      3.4             py311h06a4308_0  
+jsonpatch                 1.32               pyhd3eb1b0_0  
+jsonpointer               2.1                pyhd3eb1b0_0  
+krb5                      1.20.1               h143b758_1  
+ld_impl_linux-64          2.38                 h1181459_1  
+libarchive                3.6.2                h6ac8c49_2  
+libcurl                   8.1.1                h251f7ec_1  
+libedit                   3.1.20221030         h5eee18b_0  
+libev                     4.33                 h7f8727e_1  
+libffi                    3.4.4                h6a678d5_0  
+libgcc-ng                 11.2.0               h1234567_1  
+libgomp                   11.2.0               h1234567_1  
+libmamba                  1.4.1                h2dafd23_1  
+libmambapy                1.4.1           py311h2dafd23_1  
+libnghttp2                1.52.0               h2d74bed_1  
+libsolv                   0.7.22               he621ea3_0  
+libssh2                   1.10.0               hdbd6064_2  
+libstdcxx-ng              11.2.0               h1234567_1  
+libuuid                   1.41.5               h5eee18b_0  
+libxml2                   2.10.3               hcbfbd50_0  
+lz4-c                     1.9.4                h6a678d5_0  
+ncurses                   6.4                  h6a678d5_0  
+openssl                   3.0.9                h7f8727e_0  
+packaging                 23.0            py311h06a4308_0  
+pcre2                     10.37                he7ceb23_1  
+pip                       23.1.2          py311h06a4308_0  
+pluggy                    1.0.0           py311h06a4308_1  
+pybind11-abi              4                    hd3eb1b0_1  
+pycosat                   0.6.4           py311h5eee18b_0  
+pycparser                 2.21               pyhd3eb1b0_0  
+pyopenssl                 23.0.0          py311h06a4308_0  
+pysocks                   1.7.1           py311h06a4308_0  
+python                    3.11.4               h955ad1f_0  
+readline                  8.2                  h5eee18b_0  
+reproc                    14.2.4               h295c915_1  
+reproc-cpp                14.2.4               h295c915_1  
+requests                  2.29.0          py311h06a4308_0  
+ruamel.yaml               0.17.21         py311h5eee18b_0  
+setuptools                67.8.0          py311h06a4308_0  
+six                       1.16.0             pyhd3eb1b0_1  
+sqlite                    3.41.2               h5eee18b_0  
+tk                        8.6.12               h1ccaba5_0  
+toolz                     0.12.0          py311h06a4308_0  
+tqdm                      4.65.0          py311h92b7b1e_0  
+tzdata                    2023c                h04d1e81_0  
+urllib3                   1.26.16         py311h06a4308_0  
+wheel                     0.38.4          py311h06a4308_0  
+xz                        5.4.2                h5eee18b_0  
+yaml-cpp                  0.7.0                h295c915_1  
+zlib                      1.2.13               h5eee18b_0  
+zstandard                 0.19.0          py311h5eee18b_0  
+zstd                      1.5.5                hc292b87_0  
+[?2004h(base) ]0;saikumar45@TIGER02568: ~[01;32msaikumar45@TIGER02568[00m:[01;34m~[00m$ conda --version
+[?2004lconda 23.5.2
+[?2004h(base) ]0;saikumar45@TIGER02568: ~[01;32msaikumar45@TIGER02568[00m:[01;34m~[00m$ [K(base) ]0;saikumar45@TIGER02568: ~[01;32msaikumar45@TIGER02568[00m:[01;34m~[00m$ conda update conda
+[?2004lCollecting package metadata (current_repodata.json): - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ done
+Solving environment: / - \ | / - \ | / - \ | done
+
+## Package Plan ##
+
+  environment location: /home/saikumar45/miniconda3
+
+  added / updated specs:
+    - conda
+
+
+The following packages will be downloaded:
+
+    package                    |            build
+    ---------------------------|-----------------
+    c-ares-1.19.1              |       h5eee18b_0         118 KB
+    ca-certificates-2023.08.22 |       h06a4308_0         123 KB
+    certifi-2023.7.22          |  py311h06a4308_0         154 KB
+    conda-23.9.0               |  py311h06a4308_0         1.3 MB
+    conda-libmamba-solver-23.9.1|  py311h06a4308_0          99 KB
+    conda-package-handling-2.2.0|  py311h06a4308_0         278 KB
+    conda-package-streaming-0.9.0|  py311h06a4308_0          33 KB
+    icu-73.1                   |       h6a678d5_0        25.9 MB
+    libcurl-8.4.0              |       h251f7ec_0         411 KB
+    libmamba-1.5.1             |       haf1ee3a_0         1.8 MB
+    libmambapy-1.5.1           |  py311h2dafd23_0         310 KB
+    libnghttp2-1.57.0          |       h2d74bed_0         674 KB
+    libsolv-0.7.24             |       he621ea3_0         492 KB
+    libxml2-2.10.4             |       hf1b16e4_1         753 KB
+    openssl-3.0.11             |       h7f8727e_2         5.2 MB
+    packaging-23.1             |  py311h06a4308_0         100 KB
+    pcre2-10.42                |       hebb0a14_0         1.5 MB
+    pycosat-0.6.6              |  py311h5eee18b_0          90 KB
+    pyopenssl-23.2.0           |  py311h06a4308_0         121 KB
+    requests-2.31.0            |  py311h06a4308_0         124 KB
+    truststore-0.8.0           |  py311h06a4308_0          43 KB
+    ------------------------------------------------------------
+                                           Total:        39.6 MB
+
+The following NEW packages will be INSTALLED:
+
+  truststore         pkgs/main/linux-64::truststore-0.8.0-py311h06a4308_0 
+
+The following packages will be REMOVED:
+
+  toolz-0.12.0-py311h06a4308_0
+
+The following packages will be UPDATED:
+
+  c-ares                                  1.19.0-h5eee18b_0 --> 1.19.1-h5eee18b_0 
+  ca-certificates                     2023.05.30-h06a4308_0 --> 2023.08.22-h06a4308_0 
+  certifi                          2023.5.7-py311h06a4308_0 --> 2023.7.22-py311h06a4308_0 
+  conda                              23.5.2-py311h06a4308_0 --> 23.9.0-py311h06a4308_0 
+  conda-libmamba-so~                 23.5.0-py311h06a4308_0 --> 23.9.1-py311h06a4308_0 
+  conda-package-han~                  2.1.0-py311h06a4308_0 --> 2.2.0-py311h06a4308_0 
+  conda-package-str~                  0.8.0-py311h06a4308_0 --> 0.9.0-py311h06a4308_0 
+  icu                                       58.2-he6710b0_3 --> 73.1-h6a678d5_0 
+  libcurl                                  8.1.1-h251f7ec_1 --> 8.4.0-h251f7ec_0 
+  libmamba                                 1.4.1-h2dafd23_1 --> 1.5.1-haf1ee3a_0 
+  libmambapy                          1.4.1-py311h2dafd23_1 --> 1.5.1-py311h2dafd23_0 
+  libnghttp2                              1.52.0-h2d74bed_1 --> 1.57.0-h2d74bed_0 
+  libsolv                                 0.7.22-he621ea3_0 --> 0.7.24-he621ea3_0 
+  libxml2                                 2.10.3-hcbfbd50_0 --> 2.10.4-hf1b16e4_1 
+  openssl                                  3.0.9-h7f8727e_0 --> 3.0.11-h7f8727e_2 
+  packaging                            23.0-py311h06a4308_0 --> 23.1-py311h06a4308_0 
+  pcre2                                    10.37-he7ceb23_1 --> 10.42-hebb0a14_0 
+  pycosat                             0.6.4-py311h5eee18b_0 --> 0.6.6-py311h5eee18b_0 
+  pyopenssl                          23.0.0-py311h06a4308_0 --> 23.2.0-py311h06a4308_0 
+  requests                           2.29.0-py311h06a4308_0 --> 2.31.0-py311h06a4308_0 
+
+
+Proceed ([y]/n)? y
+
+
+Downloading and Extracting Packages
+libxml2-2.10.4       | 753 KB    |                                                                                                           |   0% 
+truststore-0.8.0     | 43 KB     |                                                                                                           |   0% [A
+
+libmambapy-1.5.1     | 310 KB    |                                                                                                           |   0% [A[A
+
+
+libmamba-1.5.1       | 1.8 MB    |                                                                                                           |   0% [A[A[A
+
+
+
+ca-certificates-2023 | 123 KB    |                                                                                                           |   0% [A[A[A[A
+
+
+
+
+libsolv-0.7.24       | 492 KB    |                                                                                                           |   0% [A[A[A[A[A
+
+
+
+
+
+conda-libmamba-solve | 99 KB     |                                                                                                           |   0% [A[A[A[A[A[A
+
+
+
+
+
+
+pyopenssl-23.2.0     | 121 KB    |                                                                                                           |   0% [A[A[A[A[A[A[A
+
+
+
+
+
+
+
+pcre2-10.42          | 1.5 MB    |                                                                                                           |   0% [A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+conda-23.9.0         | 1.3 MB    |                                                                                                           |   0% [A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+icu-73.1             | 25.9 MB   |                                                                                                           |   0% [A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+pycosat-0.6.6        | 90 KB     |                                                                                                           |   0% [A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+conda-package-handli | 278 KB    |                                                                                                           |   0% [A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+certifi-2023.7.22    | 154 KB    |                                                                                                           |   0% [A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+packaging-23.1       | 100 KB    |                                                                                                           |   0% [A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c-ares-1.19.1        | 118 KB    |                                                                                                           |   0% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+requests-2.31.0      | 124 KB    |                                                                                                           |   0% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+conda-package-stream | 33 KB     |                                                                                                           |   0% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+libnghttp2-1.57.0    | 674 KB    |                                                                                                           |   0% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+libcurl-8.4.0        | 411 KB    |                                                                                                           |   0% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+openssl-3.0.11       | 5.2 MB    |                                                                                                           |   0% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+libmambapy-1.5.1     | 310 KB    | #####4                                                                                                    |   5% [A[A
+
+
+
+ca-certificates-2023 | 123 KB    | #############7                                                                                            |  13% [A[A[A[A
+truststore-0.8.0     | 43 KB     | ######################################6                                                                   |  37% [A
+
+
+libmamba-1.5.1       | 1.8 MB    | 9                                                                                                         |   1% [A[A[Alibxml2-2.10.4       | 753 KB    | ##2                                                                                                       |   2% 
+
+
+
+
+libsolv-0.7.24       | 492 KB    | ###4                                                                                                      |   3% [A[A[A[A[A
+
+
+
+
+
+conda-libmamba-solve | 99 KB     | ################9                                                                                         |  16% [A[A[A[A[A[A
+
+
+
+
+
+
+pyopenssl-23.2.0     | 121 KB    | #############9                                                                                            |  13% [A[A[A[A[A[A[A
+
+
+libmamba-1.5.1       | 1.8 MB    | ############6                                                                                             |  12% [A[A[Alibxml2-2.10.4       | 753 KB    | #################################################1                                                        |  47% 
+
+
+
+
+
+
+
+pcre2-10.42          | 1.5 MB    | #                                                                                                         |   1% [A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+conda-23.9.0         | 1.3 MB    | #3                                                                                                        |   1% [A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+icu-73.1             | 25.9 MB   |                                                                                                           |   0% [A[A[A[A[A[A[A[A[A[A
+
+
+libmamba-1.5.1       | 1.8 MB    | ##################################4                                                                       |  33% [A[A[Alibxml2-2.10.4       | 753 KB    | ####################################################################################################4     |  96% 
+
+
+
+
+
+
+
+pcre2-10.42          | 1.5 MB    | ################################8                                                                         |  31% [A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+conda-23.9.0         | 1.3 MB    | #########################################7                                                                |  40% [A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+icu-73.1             | 25.9 MB   | #8                                                                                                        |   2% [A[A[A[A[A[A[A[A[A[A
+
+
+
+ca-certificates-2023 | 123 KB    | ######################################################################################################### | 100% [A[A[A[A
+
+
+
+ca-certificates-2023 | 123 KB    | ######################################################################################################### | 100% [A[A[A[A
+
+
+libmamba-1.5.1       | 1.8 MB    | ###########################################################8                                              |  57% [A[A[A
+
+
+
+
+
+
+
+
+
+
+pycosat-0.6.6        | 90 KB     | ##################5                                                                                       |  18% [A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+pcre2-10.42          | 1.5 MB    | #####################################################################9                                    |  67% [A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+conda-23.9.0         | 1.3 MB    | ################################################################################################5         |  92% [A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+icu-73.1             | 25.9 MB   | ####1                                                                                                     |   4% [A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+conda-package-handli | 278 KB    | ######                                                                                                    |   6% [A[A[A[A[A[A[A[A[A[A[A[A
+
+
+libmamba-1.5.1       | 1.8 MB    | ###########################################################################################5              |  87% [A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+certifi-2023.7.22    | 154 KB    | ##########9                                                                                               |  10% [A[A[A[A[A[A[A[A[A[A[A[A[A
+
+libmambapy-1.5.1     | 310 KB    | ######################################################################################################### | 100% [A[A
+
+libmambapy-1.5.1     | 310 KB    | ######################################################################################################### | 100% [A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c-ares-1.19.1        | 118 KB    | ##############2                                                                                           |  14% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+packaging-23.1       | 100 KB    | ################8                                                                                         |  16% [A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+icu-73.1             | 25.9 MB   | #######1                                                                                                  |   7% [A[A[A[A[A[A[A[A[A[A
+truststore-0.8.0     | 43 KB     | ######################################################################################################### | 100% [A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+requests-2.31.0      | 124 KB    | #############5                                                                                            |  13% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+truststore-0.8.0     | 43 KB     | ######################################################################################################### | 100% [A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+conda-package-stream | 33 KB     | ##################################################6                                                       |  48% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+libcurl-8.4.0        | 411 KB    | ####                                                                                                      |   4% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+openssl-3.0.11       | 5.2 MB    | 3                                                                                                         |   0% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+libnghttp2-1.57.0    | 674 KB    | ##4                                                                                                       |   2% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+icu-73.1             | 25.9 MB   | ##########6                                                                                               |  10% [A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+openssl-3.0.11       | 5.2 MB    | ###############7                                                                                          |  15% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+conda-libmamba-solve | 99 KB     | ######################################################################################################### | 100% [A[A[A[A[A[A
+
+
+
+
+
+conda-libmamba-solve | 99 KB     | ######################################################################################################### | 100% [A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+icu-73.1             | 25.9 MB   | ##############3                                                                                           |  14% [A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+openssl-3.0.11       | 5.2 MB    | ###########################################5                                                              |  41% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+pyopenssl-23.2.0     | 121 KB    | ######################################################################################################### | 100% [A[A[A[A[A[A[A
+
+
+
+
+
+
+pyopenssl-23.2.0     | 121 KB    | ######################################################################################################### | 100% [A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+icu-73.1             | 25.9 MB   | ###################2                                                                                      |  18% [A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+pycosat-0.6.6        | 90 KB     | ######################################################################################################### | 100% [A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+pycosat-0.6.6        | 90 KB     | ######################################################################################################### | 100% [A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+libsolv-0.7.24       | 492 KB    | ######################################################################################################### | 100% [A[A[A[A[A
+
+
+
+
+libsolv-0.7.24       | 492 KB    | ######################################################################################################### | 100% [A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+openssl-3.0.11       | 5.2 MB    | #############################################################1                                            |  58% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+icu-73.1             | 25.9 MB   | ######################9                                                                                   |  22% [A[A[A[A[A[A[A[A[A[Alibxml2-2.10.4       | 753 KB    | ######################################################################################################### | 100% 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+openssl-3.0.11       | 5.2 MB    | ####################################################################################5                     |  81% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+icu-73.1             | 25.9 MB   | ###########################2                                                                              |  26% [A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+icu-73.1             | 25.9 MB   | ################################8                                                                         |  31% [A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+icu-73.1             | 25.9 MB   | #############################################9                                                            |  44% [A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+conda-package-handli | 278 KB    | ######################################################################################################### | 100% [A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+conda-package-handli | 278 KB    | ######################################################################################################### | 100% [A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+icu-73.1             | 25.9 MB   | ####################################################7                                                     |  50% [A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+certifi-2023.7.22    | 154 KB    | ######################################################################################################### | 100% [A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+certifi-2023.7.22    | 154 KB    | ######################################################################################################### | 100% [A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+icu-73.1             | 25.9 MB   | ###########################################################2                                              |  56% [A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+icu-73.1             | 25.9 MB   | ##################################################################4                                       |  63% [A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+icu-73.1             | 25.9 MB   | ##########################################################################3                               |  71% [A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+pcre2-10.42          | 1.5 MB    | ######################################################################################################### | 100% [A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+pcre2-10.42          | 1.5 MB    | ######################################################################################################### | 100% [A[A[A[A[A[A[A[A
+
+
+libmamba-1.5.1       | 1.8 MB    | ######################################################################################################### | 100% [A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+packaging-23.1       | 100 KB    | ######################################################################################################### | 100% [A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+packaging-23.1       | 100 KB    | ######################################################################################################### | 100% [A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c-ares-1.19.1        | 118 KB    | ######################################################################################################### | 100% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c-ares-1.19.1        | 118 KB    | ######################################################################################################### | 100% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+icu-73.1             | 25.9 MB   | #################################################################################4                        |  78% [A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+conda-package-stream | 33 KB     | ######################################################################################################### | 100% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+conda-package-stream | 33 KB     | ######################################################################################################### | 100% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+icu-73.1             | 25.9 MB   | ######################################################################################8                   |  83% [A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+requests-2.31.0      | 124 KB    | ######################################################################################################### | 100% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+requests-2.31.0      | 124 KB    | ######################################################################################################### | 100% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+icu-73.1             | 25.9 MB   | #############################################################################################4            |  89% [A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+libcurl-8.4.0        | 411 KB    | ######################################################################################################### | 100% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+libcurl-8.4.0        | 411 KB    | ######################################################################################################### | 100% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+libnghttp2-1.57.0    | 674 KB    | ######################################################################################################### | 100% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+libnghttp2-1.57.0    | 674 KB    | ######################################################################################################### | 100% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+icu-73.1             | 25.9 MB   | ####################################################################################################      |  95% [A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+conda-23.9.0         | 1.3 MB    | ######################################################################################################### | 100% [A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+openssl-3.0.11       | 5.2 MB    | ######################################################################################################### | 100% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+openssl-3.0.11       | 5.2 MB    | ######################################################################################################### | 100% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+icu-73.1             | 25.9 MB   | ######################################################################################################### | 100% [A[A[A[A[A[A[A[A[A[A                                                                                                                                                    
+                                                                                                                                                    [A
+
+                                                                                                                                                    [A[A
+
+
+                                                                                                                                                    [A[A[A
+
+
+
+                                                                                                                                                    [A[A[A[A
+
+
+
+
+                                                                                                                                                    [A[A[A[A[A
+
+
+
+
+
+                                                                                                                                                    [A[A[A[A[A[A
+
+
+
+
+
+
+                                                                                                                                                    [A[A[A[A[A[A[A
+
+
+
+
+
+
+
+                                                                                                                                                    [A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+                                                                                                                                                    [A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+                                                                                                                                                    [A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                                    [A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                                    [A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                                    [A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                                    [A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                                    [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                                    [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                                    [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                                    [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                                    [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                                    [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+Preparing transaction: - done
+Verifying transaction: | / - done
+Executing transaction: | / done
+[?2004h(base) ]0;saikumar45@TIGER02568: ~[01;32msaikumar45@TIGER02568[00m:[01;34m~[00m$ conda creat [Kw[Ke --name snowflakes biopython
+[?2004lCollecting package metadata (current_repodata.json): - \ | / - \ | / - \ | / - \ | / - done
+Solving environment: | / - done
+
+## Package Plan ##
+
+  environment location: /home/saikumar45/miniconda3/envs/snowflakes
+
+  added / updated specs:
+    - biopython
+
+
+The following packages will be downloaded:
+
+    package                    |            build
+    ---------------------------|-----------------
+    biopython-1.78             |  py311h5eee18b_0         2.7 MB
+    blas-1.0                   |              mkl           6 KB
+    intel-openmp-2023.1.0      |   hdb19cb5_46305        17.1 MB
+    mkl-2023.1.0               |   h213fc3f_46343       171.6 MB
+    mkl-service-2.4.0          |  py311h5eee18b_1          54 KB
+    mkl_fft-1.3.8              |  py311h5eee18b_0         225 KB
+    mkl_random-1.2.4           |  py311hdb19cb5_0         316 KB
+    numpy-1.26.0               |  py311h08b1b3b_0          10 KB
+    numpy-base-1.26.0          |  py311hf175353_0         8.2 MB
+    pip-23.2.1                 |  py311h06a4308_0         3.3 MB
+    python-3.11.5              |       h955ad1f_0        32.7 MB
+    setuptools-68.0.0          |  py311h06a4308_0         1.2 MB
+    tbb-2021.8.0               |       hdb19cb5_0         1.6 MB
+    wheel-0.41.2               |  py311h06a4308_0         145 KB
+    ------------------------------------------------------------
+                                           Total:       239.1 MB
+
+The following NEW packages will be INSTALLED:
+
+  _libgcc_mutex      pkgs/main/linux-64::_libgcc_mutex-0.1-main 
+  _openmp_mutex      pkgs/main/linux-64::_openmp_mutex-5.1-1_gnu 
+  biopython          pkgs/main/linux-64::biopython-1.78-py311h5eee18b_0 
+  blas               pkgs/main/linux-64::blas-1.0-mkl 
+  bzip2              pkgs/main/linux-64::bzip2-1.0.8-h7b6447c_0 
+  ca-certificates    pkgs/main/linux-64::ca-certificates-2023.08.22-h06a4308_0 
+  intel-openmp       pkgs/main/linux-64::intel-openmp-2023.1.0-hdb19cb5_46305 
+  ld_impl_linux-64   pkgs/main/linux-64::ld_impl_linux-64-2.38-h1181459_1 
+  libffi             pkgs/main/linux-64::libffi-3.4.4-h6a678d5_0 
+  libgcc-ng          pkgs/main/linux-64::libgcc-ng-11.2.0-h1234567_1 
+  libgomp            pkgs/main/linux-64::libgomp-11.2.0-h1234567_1 
+  libstdcxx-ng       pkgs/main/linux-64::libstdcxx-ng-11.2.0-h1234567_1 
+  libuuid            pkgs/main/linux-64::libuuid-1.41.5-h5eee18b_0 
+  mkl                pkgs/main/linux-64::mkl-2023.1.0-h213fc3f_46343 
+  mkl-service        pkgs/main/linux-64::mkl-service-2.4.0-py311h5eee18b_1 
+  mkl_fft            pkgs/main/linux-64::mkl_fft-1.3.8-py311h5eee18b_0 
+  mkl_random         pkgs/main/linux-64::mkl_random-1.2.4-py311hdb19cb5_0 
+  ncurses            pkgs/main/linux-64::ncurses-6.4-h6a678d5_0 
+  numpy              pkgs/main/linux-64::numpy-1.26.0-py311h08b1b3b_0 
+  numpy-base         pkgs/main/linux-64::numpy-base-1.26.0-py311hf175353_0 
+  openssl            pkgs/main/linux-64::openssl-3.0.11-h7f8727e_2 
+  pip                pkgs/main/linux-64::pip-23.2.1-py311h06a4308_0 
+  python             pkgs/main/linux-64::python-3.11.5-h955ad1f_0 
+  readline           pkgs/main/linux-64::readline-8.2-h5eee18b_0 
+  setuptools         pkgs/main/linux-64::setuptools-68.0.0-py311h06a4308_0 
+  sqlite             pkgs/main/linux-64::sqlite-3.41.2-h5eee18b_0 
+  tbb                pkgs/main/linux-64::tbb-2021.8.0-hdb19cb5_0 
+  tk                 pkgs/main/linux-64::tk-8.6.12-h1ccaba5_0 
+  tzdata             pkgs/main/noarch::tzdata-2023c-h04d1e81_0 
+  wheel              pkgs/main/linux-64::wheel-0.41.2-py311h06a4308_0 
+  xz                 pkgs/main/linux-64::xz-5.4.2-h5eee18b_0 
+  zlib               pkgs/main/linux-64::zlib-1.2.13-h5eee18b_0 
+
+
+Proceed ([y]/n)? y
+
+
+Downloading and Extracting Packages:
+wheel-0.41.2         | 145 KB    |                                                                                                           |   0% 
+numpy-1.26.0         | 10 KB     |                                                                                                           |   0% [A
+
+python-3.11.5        | 32.7 MB   |                                                                                                           |   0% [A[A
+
+
+mkl_random-1.2.4     | 316 KB    |                                                                                                           |   0% [A[A[A
+
+
+
+numpy-base-1.26.0    | 8.2 MB    |                                                                                                           |   0% [A[A[A[A
+
+
+
+
+blas-1.0             | 6 KB      |                                                                                                           |   0% [A[A[A[A[A
+
+
+
+
+
+mkl-service-2.4.0    | 54 KB     |                                                                                                           |   0% [A[A[A[A[A[A
+
+
+
+
+
+
+setuptools-68.0.0    | 1.2 MB    |                                                                                                           |   0% [A[A[A[A[A[A[A
+
+
+
+
+
+
+
+mkl_fft-1.3.8        | 225 KB    |                                                                                                           |   0% [A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+biopython-1.78       | 2.7 MB    |                                                                                                           |   0% [A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+intel-openmp-2023.1. | 17.1 MB   |                                                                                                           |   0% [A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+pip-23.2.1           | 3.3 MB    |                                                                                                           |   0% [A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+tbb-2021.8.0         | 1.6 MB    |                                                                                                           |   0% [A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+mkl-2023.1.0         | 171.6 MB  |                                                                                                           |   0% [A[A[A[A[A[A[A[A[A[A[A[A[Awheel-0.41.2         | 145 KB    | ###########6                                                                                              |  11% 
+
+python-3.11.5        | 32.7 MB   |                                                                                                           |   0% [A[A
+
+
+
+numpy-base-1.26.0    | 8.2 MB    | 2                                                                                                         |   0% [A[A[A[A
+
+
+mkl_random-1.2.4     | 316 KB    | #####3                                                                                                    |   5% [A[A[A
+
+
+
+
+blas-1.0             | 6 KB      | ######################################################################################################### | 100% [A[A[A[A[A
+numpy-1.26.0         | 10 KB     | ######################################################################################################### | 100% [A
+
+
+
+
+
+mkl-service-2.4.0    | 54 KB     | ##############################8                                                                           |  29% [A[A[A[A[A[A
+
+
+
+numpy-base-1.26.0    | 8.2 MB    | ####2                                                                                                     |   4% [A[A[A[A
+
+python-3.11.5        | 32.7 MB   | 9                                                                                                         |   1% [A[A
+
+
+mkl_random-1.2.4     | 316 KB    | #####################################################################                                     |  66% [A[A[A
+
+
+
+
+
+
+setuptools-68.0.0    | 1.2 MB    | #3                                                                                                        |   1% [A[A[A[A[A[A[A
+
+
+
+
+
+
+
+mkl_fft-1.3.8        | 225 KB    | #######4                                                                                                  |   7% [A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+biopython-1.78       | 2.7 MB    | 6                                                                                                         |   1% [A[A[A[A[A[A[A[A[A
+
+
+
+numpy-base-1.26.0    | 8.2 MB    | ########2                                                                                                 |   8% [A[A[A[A
+
+python-3.11.5        | 32.7 MB   | #8                                                                                                        |   2% [A[A
+
+
+
+
+blas-1.0             | 6 KB      | ######################################################################################################### | 100% [A[A[A[A[A
+
+
+
+
+
+
+
+
+
+intel-openmp-2023.1. | 17.1 MB   |                                                                                                           |   0% [A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+setuptools-68.0.0    | 1.2 MB    | ########################2                                                                                 |  23% [A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+biopython-1.78       | 2.7 MB    | ####################3                                                                                     |  19% [A[A[A[A[A[A[A[A[A
+
+
+
+numpy-base-1.26.0    | 8.2 MB    | #############6                                                                                            |  13% [A[A[A[A
+
+python-3.11.5        | 32.7 MB   | ###2                                                                                                      |   3% [A[A
+numpy-1.26.0         | 10 KB     | ######################################################################################################### | 100% [A
+
+
+
+
+
+
+
+
+
+intel-openmp-2023.1. | 17.1 MB   | ##4                                                                                                       |   2% [A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+setuptools-68.0.0    | 1.2 MB    | ############################################################7                                             |  58% [A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+biopython-1.78       | 2.7 MB    | #####################################5                                                                    |  36% [A[A[A[A[A[A[A[A[A
+
+python-3.11.5        | 32.7 MB   | ####7                                                                                                     |   4% [A[A
+
+
+
+numpy-base-1.26.0    | 8.2 MB    | #################6                                                                                        |  17% [A[A[A[A
+
+
+
+
+
+
+
+
+
+intel-openmp-2023.1. | 17.1 MB   | ######1                                                                                                   |   6% [A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+pip-23.2.1           | 3.3 MB    | 5                                                                                                         |   0% [A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+biopython-1.78       | 2.7 MB    | #############################################################6                                            |  59% [A[A[A[A[A[A[A[A[A
+
+python-3.11.5        | 32.7 MB   | ######5                                                                                                   |   6% [A[A
+
+
+
+numpy-base-1.26.0    | 8.2 MB    | ##########################5                                                                               |  25% [A[A[A[A
+
+
+
+
+
+
+
+
+
+intel-openmp-2023.1. | 17.1 MB   | ###########4                                                                                              |  11% [A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+mkl-service-2.4.0    | 54 KB     | ######################################################################################################### | 100% [A[A[A[A[A[A
+
+
+
+
+
+mkl-service-2.4.0    | 54 KB     | ######################################################################################################### | 100% [A[A[A[A[A[A
+
+
+
+
+
+
+
+
+biopython-1.78       | 2.7 MB    | ###################################################################################################2      |  94% [A[A[A[A[A[A[A[A[A
+
+python-3.11.5        | 32.7 MB   | ########9                                                                                                 |   8% [A[A
+
+
+
+numpy-base-1.26.0    | 8.2 MB    | ####################################3                                                                     |  35% [A[A[A[Awheel-0.41.2         | 145 KB    | ######################################################################################################### | 100% wheel-0.41.2         | 145 KB    | ######################################################################################################### | 100% 
+
+
+
+
+
+
+
+
+
+intel-openmp-2023.1. | 17.1 MB   | #################9                                                                                        |  17% [A[A[A[A[A[A[A[A[A[A
+
+
+mkl_random-1.2.4     | 316 KB    | ######################################################################################################### | 100% [A[A[A
+
+
+
+
+
+
+
+
+
+
+pip-23.2.1           | 3.3 MB    | ###5                                                                                                      |   3% [A[A[A[A[A[A[A[A[A[A[A
+
+
+
+numpy-base-1.26.0    | 8.2 MB    | ################################################6                                                         |  46% [A[A[A[A
+
+
+
+
+
+
+
+
+
+intel-openmp-2023.1. | 17.1 MB   | ########################3                                                                                 |  23% [A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+pip-23.2.1           | 3.3 MB    | ######################                                                                                    |  21% [A[A[A[A[A[A[A[A[A[A[A
+
+python-3.11.5        | 32.7 MB   | ##########6                                                                                               |  10% [A[A
+
+
+
+numpy-base-1.26.0    | 8.2 MB    | #########################################################2                                                |  55% [A[A[A[A
+
+
+
+
+
+
+
+
+
+intel-openmp-2023.1. | 17.1 MB   | #############################5                                                                            |  28% [A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+pip-23.2.1           | 3.3 MB    | #############################################                                                             |  43% [A[A[A[A[A[A[A[A[A[A[A
+
+python-3.11.5        | 32.7 MB   | ############5                                                                                             |  12% [A[A
+
+
+
+numpy-base-1.26.0    | 8.2 MB    | #################################################################2                                        |  62% [A[A[A[A
+
+
+
+
+
+
+
+
+
+
+pip-23.2.1           | 3.3 MB    | ################################################################                                          |  61% [A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+intel-openmp-2023.1. | 17.1 MB   | ##################################4                                                                       |  33% [A[A[A[A[A[A[A[A[A[A
+
+python-3.11.5        | 32.7 MB   | ##############2                                                                                           |  14% [A[A
+
+
+
+
+
+
+
+
+
+
+
+tbb-2021.8.0         | 1.6 MB    | 9                                                                                                         |   1% [A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+mkl_fft-1.3.8        | 225 KB    | ######################################################################################################### | 100% [A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+mkl_fft-1.3.8        | 225 KB    | ######################################################################################################### | 100% [A[A[A[A[A[A[A[A
+
+
+
+numpy-base-1.26.0    | 8.2 MB    | ########################################################################7                                 |  69% [A[A[A[A
+
+
+
+
+
+
+
+
+
+
+pip-23.2.1           | 3.3 MB    | ###################################################################################5                      |  80% [A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+tbb-2021.8.0         | 1.6 MB    | ##################################8                                                                       |  33% [A[A[A[A[A[A[A[A[A[A[A[A
+
+python-3.11.5        | 32.7 MB   | ###############9                                                                                          |  15% [A[A
+
+
+
+
+
+
+
+
+
+intel-openmp-2023.1. | 17.1 MB   | ######################################9                                                                   |  37% [A[A[A[A[A[A[A[A[A[A
+
+
+
+numpy-base-1.26.0    | 8.2 MB    | ################################################################################5                         |  77% [A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+tbb-2021.8.0         | 1.6 MB    | #############################################################################################5            |  89% [A[A[A[A[A[A[A[A[A[A[A[A
+
+python-3.11.5        | 32.7 MB   | #################9                                                                                        |  17% [A[A
+
+
+
+
+
+
+
+
+
+intel-openmp-2023.1. | 17.1 MB   | ###########################################9                                                              |  42% [A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+mkl-2023.1.0         | 171.6 MB  |                                                                                                           |   0% [A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+numpy-base-1.26.0    | 8.2 MB    | #########################################################################################3                |  85% [A[A[A[A
+
+python-3.11.5        | 32.7 MB   | ###################9                                                                                      |  19% [A[A
+
+
+
+
+
+
+
+
+
+intel-openmp-2023.1. | 17.1 MB   | ################################################9                                                         |  47% [A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+mkl-2023.1.0         | 171.6 MB  | 4                                                                                                         |   0% [A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+numpy-base-1.26.0    | 8.2 MB    | #################################################################################################2        |  93% [A[A[A[A
+
+python-3.11.5        | 32.7 MB   | #####################9                                                                                    |  21% [A[A
+
+
+
+
+
+
+
+
+
+intel-openmp-2023.1. | 17.1 MB   | #####################################################6                                                    |  51% [A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+mkl-2023.1.0         | 171.6 MB  | 9                                                                                                         |   1% [A[A[A[A[A[A[A[A[A[A[A[A[A
+
+python-3.11.5        | 32.7 MB   | ########################1                                                                                 |  23% [A[A
+
+
+
+
+
+
+
+
+
+intel-openmp-2023.1. | 17.1 MB   | ##########################################################9                                               |  56% [A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+mkl-2023.1.0         | 171.6 MB  | #5                                                                                                        |   1% [A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+intel-openmp-2023.1. | 17.1 MB   | #################################################################9                                        |  63% [A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+intel-openmp-2023.1. | 17.1 MB   | ###########################################################################3                              |  72% [A[A[A[A[A[A[A[A[A[A
+
+python-3.11.5        | 32.7 MB   | ##########################6                                                                               |  25% [A[A
+
+
+
+
+
+
+
+
+
+
+
+
+mkl-2023.1.0         | 171.6 MB  | #9                                                                                                        |   2% [A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+intel-openmp-2023.1. | 17.1 MB   | ##################################################################################7                       |  79% [A[A[A[A[A[A[A[A[A[A
+
+python-3.11.5        | 32.7 MB   | ############################3                                                                             |  27% [A[A
+
+
+
+
+
+
+
+
+
+
+
+
+mkl-2023.1.0         | 171.6 MB  | ##3                                                                                                       |   2% [A[A[A[A[A[A[A[A[A[A[A[A[A
+
+python-3.11.5        | 32.7 MB   | ##############################4                                                                           |  29% [A[A
+
+
+
+
+
+
+
+
+
+intel-openmp-2023.1. | 17.1 MB   | #########################################################################################6                |  85% [A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+mkl-2023.1.0         | 171.6 MB  | ##9                                                                                                       |   3% [A[A[A[A[A[A[A[A[A[A[A[A[A
+
+python-3.11.5        | 32.7 MB   | ################################6                                                                         |  31% [A[A
+
+
+
+
+
+
+
+
+
+intel-openmp-2023.1. | 17.1 MB   | ###############################################################################################8          |  91% [A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+mkl-2023.1.0         | 171.6 MB  | ###5                                                                                                      |   3% [A[A[A[A[A[A[A[A[A[A[A[A[A
+
+python-3.11.5        | 32.7 MB   | ##################################9                                                                       |  33% [A[A
+
+
+
+
+
+
+
+
+
+intel-openmp-2023.1. | 17.1 MB   | #####################################################################################################9    |  97% [A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+mkl-2023.1.0         | 171.6 MB  | ####1                                                                                                     |   4% [A[A[A[A[A[A[A[A[A[A[A[A[A
+
+python-3.11.5        | 32.7 MB   | ####################################9                                                                     |  35% [A[A
+
+
+
+
+
+
+
+
+
+
+
+
+mkl-2023.1.0         | 171.6 MB  | ####6                                                                                                     |   4% [A[A[A[A[A[A[A[A[A[A[A[A[A
+
+python-3.11.5        | 32.7 MB   | #######################################9                                                                  |  38% [A[A
+
+
+
+
+
+
+
+
+
+
+
+
+mkl-2023.1.0         | 171.6 MB  | #####2                                                                                                    |   5% [A[A[A[A[A[A[A[A[A[A[A[A[A
+
+python-3.11.5        | 32.7 MB   | ##########################################5                                                               |  40% [A[A
+
+
+
+
+
+
+
+
+
+
+
+
+mkl-2023.1.0         | 171.6 MB  | #####9                                                                                                    |   6% [A[A[A[A[A[A[A[A[A[A[A[A[A
+
+python-3.11.5        | 32.7 MB   | #############################################                                                             |  43% [A[A
+
+
+
+
+
+
+
+
+
+
+
+
+mkl-2023.1.0         | 171.6 MB  | ######4                                                                                                   |   6% [A[A[A[A[A[A[A[A[A[A[A[A[A
+
+python-3.11.5        | 32.7 MB   | ##############################################9                                                           |  45% [A[A
+
+
+
+
+
+
+
+
+
+
+
+
+mkl-2023.1.0         | 171.6 MB  | #######                                                                                                   |   7% [A[A[A[A[A[A[A[A[A[A[A[A[A
+
+python-3.11.5        | 32.7 MB   | ##################################################5                                                       |  48% [A[A
+
+
+
+
+
+
+
+
+
+
+
+
+mkl-2023.1.0         | 171.6 MB  | ########                                                                                                  |   8% [A[A[A[A[A[A[A[A[A[A[A[A[A
+
+python-3.11.5        | 32.7 MB   | #####################################################3                                                    |  51% [A[A
+
+
+
+
+
+
+
+
+
+
+
+
+mkl-2023.1.0         | 171.6 MB  | ########7                                                                                                 |   8% [A[A[A[A[A[A[A[A[A[A[A[A[A
+
+python-3.11.5        | 32.7 MB   | ########################################################1                                                 |  54% [A[A
+
+
+
+
+
+
+
+
+
+
+
+
+mkl-2023.1.0         | 171.6 MB  | #########4                                                                                                |   9% [A[A[A[A[A[A[A[A[A[A[A[A[A
+
+python-3.11.5        | 32.7 MB   | ###########################################################2                                              |  56% [A[A
+
+
+
+
+
+
+
+
+
+
+
+
+mkl-2023.1.0         | 171.6 MB  | ##########1                                                                                               |  10% [A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+setuptools-68.0.0    | 1.2 MB    | ######################################################################################################### | 100% [A[A[A[A[A[A[A
+
+
+
+
+
+
+setuptools-68.0.0    | 1.2 MB    | ######################################################################################################### | 100% [A[A[A[A[A[A[A
+
+python-3.11.5        | 32.7 MB   | ##############################################################5                                           |  60% [A[A
+
+
+
+
+
+
+
+
+
+
+
+
+mkl-2023.1.0         | 171.6 MB  | ##########9                                                                                               |  10% [A[A[A[A[A[A[A[A[A[A[A[A[A
+
+python-3.11.5        | 32.7 MB   | #################################################################9                                        |  63% [A[A
+
+
+
+
+
+
+
+
+
+
+
+
+mkl-2023.1.0         | 171.6 MB  | ###########7                                                                                              |  11% [A[A[A[A[A[A[A[A[A[A[A[A[A
+
+python-3.11.5        | 32.7 MB   | #####################################################################                                     |  66% [A[A
+
+
+
+
+
+
+
+
+
+
+
+
+mkl-2023.1.0         | 171.6 MB  | ############5                                                                                             |  12% [A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+tbb-2021.8.0         | 1.6 MB    | ######################################################################################################### | 100% [A[A[A[A[A[A[A[A[A[A[A[A
+
+python-3.11.5        | 32.7 MB   | ########################################################################                                  |  69% [A[A
+
+
+
+
+
+
+
+
+
+
+
+
+mkl-2023.1.0         | 171.6 MB  | #############3                                                                                            |  13% [A[A[A[A[A[A[A[A[A[A[A[A[A
+
+python-3.11.5        | 32.7 MB   | ##########################################################################6                               |  71% [A[A
+
+
+
+
+
+
+
+
+
+
+
+
+mkl-2023.1.0         | 171.6 MB  | #############9                                                                                            |  13% [A[A[A[A[A[A[A[A[A[A[A[A[A
+
+python-3.11.5        | 32.7 MB   | #############################################################################4                            |  74% [A[A
+
+
+
+
+
+
+
+
+
+
+
+
+mkl-2023.1.0         | 171.6 MB  | ##############5                                                                                           |  14% [A[A[A[A[A[A[A[A[A[A[A[A[A
+
+python-3.11.5        | 32.7 MB   | ################################################################################4                         |  77% [A[A
+
+
+
+
+
+
+
+
+
+
+
+
+mkl-2023.1.0         | 171.6 MB  | ###############3                                                                                          |  15% [A[A[A[A[A[A[A[A[A[A[A[A[A
+
+python-3.11.5        | 32.7 MB   | ###################################################################################4                      |  79% [A[A
+
+
+
+
+
+
+
+
+
+
+
+
+mkl-2023.1.0         | 171.6 MB  | ################                                                                                          |  15% [A[A[A[A[A[A[A[A[A[A[A[A[A
+
+python-3.11.5        | 32.7 MB   | ######################################################################################8                   |  83% [A[A
+
+
+
+
+
+
+
+
+
+
+
+
+mkl-2023.1.0         | 171.6 MB  | ################8                                                                                         |  16% [A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+mkl-2023.1.0         | 171.6 MB  | #################5                                                                                        |  17% [A[A[A[A[A[A[A[A[A[A[A[A[A
+
+python-3.11.5        | 32.7 MB   | #########################################################################################7                |  85% [A[A
+
+python-3.11.5        | 32.7 MB   | ############################################################################################6             |  88% [A[A
+
+
+
+
+
+
+
+
+
+
+
+
+mkl-2023.1.0         | 171.6 MB  | ##################2                                                                                       |  17% [A[A[A[A[A[A[A[A[A[A[A[A[A
+
+python-3.11.5        | 32.7 MB   | ###############################################################################################6          |  91% [A[A
+
+
+
+
+
+
+
+
+
+
+
+
+mkl-2023.1.0         | 171.6 MB  | ##################9                                                                                       |  18% [A[A[A[A[A[A[A[A[A[A[A[A[A
+
+python-3.11.5        | 32.7 MB   | ##################################################################################################8       |  94% [A[A
+
+
+
+
+
+
+
+
+
+
+
+
+mkl-2023.1.0         | 171.6 MB  | ###################7                                                                                      |  19% [A[A[A[A[A[A[A[A[A[A[A[A[A
+
+python-3.11.5        | 32.7 MB   | ######################################################################################################    |  97% [A[A
+
+
+
+
+
+
+
+
+
+
+
+
+mkl-2023.1.0         | 171.6 MB  | ####################6                                                                                     |  20% [A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+mkl-2023.1.0         | 171.6 MB  | #####################3                                                                                    |  20% [A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+mkl-2023.1.0         | 171.6 MB  | ######################3                                                                                   |  21% [A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+mkl-2023.1.0         | 171.6 MB  | #######################2                                                                                  |  22% [A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+mkl-2023.1.0         | 171.6 MB  | ########################2                                                                                 |  23% [A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+mkl-2023.1.0         | 171.6 MB  | #########################3                                                                                |  24% [A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+mkl-2023.1.0         | 171.6 MB  | ##########################3                                                                               |  25% [A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+mkl-2023.1.0         | 171.6 MB  | ###########################2                                                                              |  26% [A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+biopython-1.78       | 2.7 MB    | ######################################################################################################### | 100% [A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+mkl-2023.1.0         | 171.6 MB  | ############################                                                                              |  27% [A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+mkl-2023.1.0         | 171.6 MB  | #############################3                                                                            |  28% [A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+mkl-2023.1.0         | 171.6 MB  | ##############################5                                                                           |  29% [A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+mkl-2023.1.0         | 171.6 MB  | ###############################7                                                                          |  30% [A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+pip-23.2.1           | 3.3 MB    | ######################################################################################################### | 100% [A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+pip-23.2.1           | 3.3 MB    | ######################################################################################################### | 100% [A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+mkl-2023.1.0         | 171.6 MB  | ################################8                                                                         |  31% [A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+mkl-2023.1.0         | 171.6 MB  | #################################9                                                                        |  32% [A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+mkl-2023.1.0         | 171.6 MB  | ###################################1                                                                      |  33% [A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+mkl-2023.1.0         | 171.6 MB  | ####################################3                                                                     |  35% [A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+mkl-2023.1.0         | 171.6 MB  | #####################################4                                                                    |  36% [A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+mkl-2023.1.0         | 171.6 MB  | ######################################6                                                                   |  37% [A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+mkl-2023.1.0         | 171.6 MB  | #######################################8                                                                  |  38% [A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+mkl-2023.1.0         | 171.6 MB  | #########################################2                                                                |  39% [A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+mkl-2023.1.0         | 171.6 MB  | ##########################################7                                                               |  41% [A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+mkl-2023.1.0         | 171.6 MB  | ############################################2                                                             |  42% [A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+mkl-2023.1.0         | 171.6 MB  | #############################################5                                                            |  43% [A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+mkl-2023.1.0         | 171.6 MB  | ###############################################2                                                          |  45% [A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+mkl-2023.1.0         | 171.6 MB  | ################################################6                                                         |  46% [A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+mkl-2023.1.0         | 171.6 MB  | ##################################################2                                                       |  48% [A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+intel-openmp-2023.1. | 17.1 MB   | ######################################################################################################### | 100% [A[A[A[A[A[A[A[A[A[A
+
+
+
+numpy-base-1.26.0    | 8.2 MB    | ######################################################################################################### | 100% [A[A[A[A
+
+
+
+numpy-base-1.26.0    | 8.2 MB    | ######################################################################################################### | 100% [A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+mkl-2023.1.0         | 171.6 MB  | ###################################################7                                                      |  49% [A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+mkl-2023.1.0         | 171.6 MB  | ######################################################4                                                   |  52% [A[A[A[A[A[A[A[A[A[A[A[A[A
+
+python-3.11.5        | 32.7 MB   | ######################################################################################################### | 100% [A[A
+
+
+
+
+
+
+
+
+
+
+
+
+mkl-2023.1.0         | 171.6 MB  | ########################################################                                                  |  53% [A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+mkl-2023.1.0         | 171.6 MB  | ##########################################################9                                               |  56% [A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+mkl-2023.1.0         | 171.6 MB  | ##############################################################1                                           |  59% [A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+mkl-2023.1.0         | 171.6 MB  | #################################################################2                                        |  62% [A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+mkl-2023.1.0         | 171.6 MB  | ###################################################################5                                      |  64% [A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+mkl-2023.1.0         | 171.6 MB  | ######################################################################5                                   |  67% [A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+mkl-2023.1.0         | 171.6 MB  | #########################################################################1                                |  70% [A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+mkl-2023.1.0         | 171.6 MB  | ############################################################################3                             |  73% [A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+mkl-2023.1.0         | 171.6 MB  | ################################################################################                          |  76% [A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+mkl-2023.1.0         | 171.6 MB  | ###################################################################################4                      |  80% [A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+mkl-2023.1.0         | 171.6 MB  | ######################################################################################8                   |  83% [A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+mkl-2023.1.0         | 171.6 MB  | #########################################################################################8                |  86% [A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+mkl-2023.1.0         | 171.6 MB  | #############################################################################################2            |  89% [A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+mkl-2023.1.0         | 171.6 MB  | #################################################################################################2        |  93% [A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+mkl-2023.1.0         | 171.6 MB  | ####################################################################################################      |  95% [A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+mkl-2023.1.0         | 171.6 MB  | #######################################################################################################5  |  99% [A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+mkl-2023.1.0         | 171.6 MB  | ######################################################################################################### | 100% [A[A[A[A[A[A[A[A[A[A[A[A[A                                                                                                                                                    
+                                                                                                                                                    [A
+
+                                                                                                                                                    [A[A
+
+
+                                                                                                                                                    [A[A[A
+
+
+
+                                                                                                                                                    [A[A[A[A
+
+
+
+
+                                                                                                                                                    [A[A[A[A[A
+
+
+
+
+
+                                                                                                                                                    [A[A[A[A[A[A
+
+
+
+
+
+
+                                                                                                                                                    [A[A[A[A[A[A[A
+
+
+
+
+
+
+
+                                                                                                                                                    [A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+                                                                                                                                                    [A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+                                                                                                                                                    [A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                                    [A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                                    [A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                                    [A[A[A[A[A[A[A[A[A[A[A[A[A
+Preparing transaction: | / done
+Verifying transaction: \ | / - \ | / - \ | / - \ done
+Executing transaction: / - \ | / - \ done
+#
+# To activate this environment, use
+#
+#     $ conda activate snowflakes
+#
+# To deactivate an active environment, use
+#
+#     $ conda deactivate
+
+[?2004h(base) ]0;saikumar45@TIGER02568: ~[01;32msaikumar45@TIGER02568[00m:[01;34m~[00m$ conda activate biopython
+[?2004l
+EnvironmentNameNotFound: Could not find conda environment: biopython
+You can list all discoverable environments with `conda info --envs`.
+
+
+[?2004h(base) ]0;saikumar45@TIGER02568: ~[01;32msaikumar45@TIGER02568[00m:[01;34m~[00m$ conda info --envs
+[?2004l# conda environments:
+#
+base                  *  /home/saikumar45/miniconda3
+snowflakes               /home/saikumar45/miniconda3/envs/snowflakes
+
+[?2004h(base) ]0;saikumar45@TIGER02568: ~[01;32msaikumar45@TIGER02568[00m:[01;34m~[00m$ conda activate snowflakes
+[?2004l[?2004h(snowflakes) ]0;saikumar45@TIGER02568: ~[01;32msaikumar45@TIGER02568[00m:[01;34m~[00m$ cond a[K[K[Kda --envs [K[K[K[K[K[K[Kinfo --envs
+[?2004l# conda environments:
+#
+base                     /home/saikumar45/miniconda3
+snowflakes            *  /home/saikumar45/miniconda3/envs/snowflakes
+
+[?2004h(snowflakes) ]0;saikumar45@TIGER02568: ~[01;32msaikumar45@TIGER02568[00m:[01;34m~[00m$ conda crete[K[Kate --anme[K[K[K[Kanm[K[K[Kname sa[Knakes python=3.9
+[?2004lCollecting package metadata (current_repodata.json): - \ | / - \ | / - \ | / - \ | / - \ done
+Solving environment: / done
+
+## Package Plan ##
+
+  environment location: /home/saikumar45/miniconda3/envs/snakes
+
+  added / updated specs:
+    - python=3.9
+
+
+The following packages will be downloaded:
+
+    package                    |            build
+    ---------------------------|-----------------
+    pip-23.2.1                 |   py39h06a4308_0         2.6 MB
+    python-3.9.18              |       h955ad1f_0        25.1 MB
+    setuptools-68.0.0          |   py39h06a4308_0         928 KB
+    wheel-0.41.2               |   py39h06a4308_0         108 KB
+    ------------------------------------------------------------
+                                           Total:        28.6 MB
+
+The following NEW packages will be INSTALLED:
+
+  _libgcc_mutex      pkgs/main/linux-64::_libgcc_mutex-0.1-main 
+  _openmp_mutex      pkgs/main/linux-64::_openmp_mutex-5.1-1_gnu 
+  ca-certificates    pkgs/main/linux-64::ca-certificates-2023.08.22-h06a4308_0 
+  ld_impl_linux-64   pkgs/main/linux-64::ld_impl_linux-64-2.38-h1181459_1 
+  libffi             pkgs/main/linux-64::libffi-3.4.4-h6a678d5_0 
+  libgcc-ng          pkgs/main/linux-64::libgcc-ng-11.2.0-h1234567_1 
+  libgomp            pkgs/main/linux-64::libgomp-11.2.0-h1234567_1 
+  libstdcxx-ng       pkgs/main/linux-64::libstdcxx-ng-11.2.0-h1234567_1 
+  ncurses            pkgs/main/linux-64::ncurses-6.4-h6a678d5_0 
+  openssl            pkgs/main/linux-64::openssl-3.0.11-h7f8727e_2 
+  pip                pkgs/main/linux-64::pip-23.2.1-py39h06a4308_0 
+  python             pkgs/main/linux-64::python-3.9.18-h955ad1f_0 
+  readline           pkgs/main/linux-64::readline-8.2-h5eee18b_0 
+  setuptools         pkgs/main/linux-64::setuptools-68.0.0-py39h06a4308_0 
+  sqlite             pkgs/main/linux-64::sqlite-3.41.2-h5eee18b_0 
+  tk                 pkgs/main/linux-64::tk-8.6.12-h1ccaba5_0 
+  tzdata             pkgs/main/noarch::tzdata-2023c-h04d1e81_0 
+  wheel              pkgs/main/linux-64::wheel-0.41.2-py39h06a4308_0 
+  xz                 pkgs/main/linux-64::xz-5.4.2-h5eee18b_0 
+  zlib               pkgs/main/linux-64::zlib-1.2.13-h5eee18b_0 
+
+
+Proceed ([y]/n)? y
+
+
+Downloading and Extracting Packages:
+python-3.9.18        | 25.1 MB   |                                                                                                           |   0% 
+setuptools-68.0.0    | 928 KB    |                                                                                                           |   0% [A
+
+pip-23.2.1           | 2.6 MB    |                                                                                                           |   0% [A[A
+
+
+wheel-0.41.2         | 108 KB    |                                                                                                           |   0% [A[A[A
+
+pip-23.2.1           | 2.6 MB    | 6                                                                                                         |   1% [A[A
+setuptools-68.0.0    | 928 KB    | #8                                                                                                        |   2% [A
+
+
+wheel-0.41.2         | 108 KB    | ###############5                                                                                          |  15% [A[A[Apython-3.9.18        | 25.1 MB   |                                                                                                           |   0% 
+
+pip-23.2.1           | 2.6 MB    | ############################5                                                                             |  27% [A[A
+setuptools-68.0.0    | 928 KB    | ########################################################################4                                 |  69% [Apython-3.9.18        | 25.1 MB   | #3                                                                                                        |   1% 
+
+pip-23.2.1           | 2.6 MB    | #########################################################8                                                |  55% [A[A
+
+
+wheel-0.41.2         | 108 KB    | ######################################################################################################### | 100% [A[A[A
+
+
+wheel-0.41.2         | 108 KB    | ######################################################################################################### | 100% [A[A[Apython-3.9.18        | 25.1 MB   | #######3                                                                                                  |   7% python-3.9.18        | 25.1 MB   | #################9                                                                                        |  17% python-3.9.18        | 25.1 MB   | ########################6                                                                                 |  24% python-3.9.18        | 25.1 MB   | ################################2                                                                         |  31% python-3.9.18        | 25.1 MB   | #######################################7                                                                  |  38% python-3.9.18        | 25.1 MB   | ###############################################9                                                          |  46% python-3.9.18        | 25.1 MB   | #######################################################3                                                  |  53% python-3.9.18        | 25.1 MB   | ##############################################################9                                           |  60% python-3.9.18        | 25.1 MB   | ######################################################################9                                   |  68% python-3.9.18        | 25.1 MB   | ################################################################################4                         |  77% 
+setuptools-68.0.0    | 928 KB    | ######################################################################################################### | 100% [A
+
+pip-23.2.1           | 2.6 MB    | ######################################################################################################### | 100% [A[A
+
+pip-23.2.1           | 2.6 MB    | ######################################################################################################### | 100% [A[Apython-3.9.18        | 25.1 MB   | ########################################################################################3                 |  84% python-3.9.18        | 25.1 MB   | ######################################################################################################### | 100% python-3.9.18        | 25.1 MB   | ######################################################################################################### | 100%                                                                                                                                                     
+                                                                                                                                                    [A
+
+                                                                                                                                                    [A[A
+
+
+                                                                                                                                                    [A[A[A
+Preparing transaction: \ | done
+Verifying transaction: - \ | / - \ | / - done
+Executing transaction: | / - \ | done
+#
+# To activate this environment, use
+#
+#     $ conda activate snakes
+#
+# To deactivate an active environment, use
+#
+#     $ conda deactivate
+
+[?2004h(snowflakes) ]0;saikumar45@TIGER02568: ~[01;32msaikumar45@TIGER02568[00m:[01;34m~[00m$ conda ifo[K[Knfo --envs
+[?2004l# conda environments:
+#
+base                     /home/saikumar45/miniconda3
+snakes                   /home/saikumar45/miniconda3/envs/snakes
+snowflakes            *  /home/saikumar45/miniconda3/envs/snowflakes
+
+[?2004h(snowflakes) ]0;saikumar45@TIGER02568: ~[01;32msaikumar45@TIGER02568[00m:[01;34m~[00m$ python [K[K[K[K[K[K[Kconda c[Kactiate[K[K[Kvate san[K[Knakes
+[?2004l[?2004h(snakes) ]0;saikumar45@TIGER02568: ~[01;32msaikumar45@TIGER02568[00m:[01;34m~[00m$ python --version
+[?2004lPython 3.9.18
+[?2004h(snakes) ]0;saikumar45@TIGER02568: ~[01;32msaikumar45@TIGER02568[00m:[01;34m~[00m$ conda search beautifulsoup 4
+[?2004lusage: conda [-h] [-v] [--no-plugins] [-V] COMMAND ...
+conda: error: unrecognized arguments: 4
+[?2004h(snakes) ]0;saikumar45@TIGER02568: ~[01;32msaikumar45@TIGER02568[00m:[01;34m~[00m$ conda install beauri[K[Ktifulsoup4
+[?2004lCollecting package metadata (current_repodata.json): - \ | / - \ | / - \ | / - \ | done
+Solving environment: - done
+
+## Package Plan ##
+
+  environment location: /home/saikumar45/miniconda3/envs/snakes
+
+  added / updated specs:
+    - beautifulsoup4
+
+
+The following packages will be downloaded:
+
+    package                    |            build
+    ---------------------------|-----------------
+    beautifulsoup4-4.12.2      |   py39h06a4308_0         209 KB
+    soupsieve-2.5              |   py39h06a4308_0          69 KB
+    ------------------------------------------------------------
+                                           Total:         278 KB
+
+The following NEW packages will be INSTALLED:
+
+  beautifulsoup4     pkgs/main/linux-64::beautifulsoup4-4.12.2-py39h06a4308_0 
+  soupsieve          pkgs/main/linux-64::soupsieve-2.5-py39h06a4308_0 
+
+
+Proceed ([y]/n)? y
+
+
+Downloading and Extracting Packages:
+soupsieve-2.5        | 69 KB     |                                                                                                           |   0% 
+beautifulsoup4-4.12. | 209 KB    |                                                                                                           |   0% [A
+beautifulsoup4-4.12. | 209 KB    | ########                                                                                                  |   8% [A
+beautifulsoup4-4.12. | 209 KB    | ######################################################################################################### | 100% [Asoupsieve-2.5        | 69 KB     | ########################2                                                                                 |  23% soupsieve-2.5        | 69 KB     | ######################################################################################################### | 100%                                                                                                                                                     
+                                                                                                                                                    [A
+Preparing transaction: | done
+Verifying transaction: - done
+Executing transaction: | done
+[?2004h(snakes) ]0;saikumar45@TIGER02568: ~[01;32msaikumar45@TIGER02568[00m:[01;34m~[00m$ conda lios[K[Kst
+[?2004l# packages in environment at /home/saikumar45/miniconda3/envs/snakes:
+#
+# Name                    Version                   Build  Channel
+_libgcc_mutex             0.1                        main  
+_openmp_mutex             5.1                       1_gnu  
+beautifulsoup4            4.12.2           py39h06a4308_0  
+ca-certificates           2023.08.22           h06a4308_0  
+ld_impl_linux-64          2.38                 h1181459_1  
+libffi                    3.4.4                h6a678d5_0  
+libgcc-ng                 11.2.0               h1234567_1  
+libgomp                   11.2.0               h1234567_1  
+libstdcxx-ng              11.2.0               h1234567_1  
+ncurses                   6.4                  h6a678d5_0  
+openssl                   3.0.11               h7f8727e_2  
+pip                       23.2.1           py39h06a4308_0  
+python                    3.9.18               h955ad1f_0  
+readline                  8.2                  h5eee18b_0  
+setuptools                68.0.0           py39h06a4308_0  
+soupsieve                 2.5              py39h06a4308_0  
+sqlite                    3.41.2               h5eee18b_0  
+tk                        8.6.12               h1ccaba5_0  
+tzdata                    2023c                h04d1e81_0  
+wheel                     0.41.2           py39h06a4308_0  
+xz                        5.4.2                h5eee18b_0  
+zlib                      1.2.13               h5eee18b_0  
+[?2004h(snakes) ]0;saikumar45@TIGER02568: ~[01;32msaikumar45@TIGER02568[00m:[01;34m~[00m$ echo $path
+[?2004l
+[?2004h(snakes) ]0;saikumar45@TIGER02568: ~[01;32msaikumar45@TIGER02568[00m:[01;34m~[00m$ which python
+[?2004l/home/saikumar45/miniconda3/envs/snakes/bin/python
+[?2004h(snakes) ]0;saikumar45@TIGER02568: ~[01;32msaikumar45@TIGER02568[00m:[01;34m~[00m$ conda deactivate
+[?2004l[?2004h(snowflakes) ]0;saikumar45@TIGER02568: ~[01;32msaikumar45@TIGER02568[00m:[01;34m~[00m$ conda [K info --envs
+[?2004l# conda environments:
+#
+base                     /home/saikumar45/miniconda3
+snakes                   /home/saikumar45/miniconda3/envs/snakes
+snowflakes            *  /home/saikumar45/miniconda3/envs/snowflakes
+
+[?2004h(snowflakes) ]0;saikumar45@TIGER02568: ~[01;32msaikumar45@TIGER02568[00m:[01;34m~[00m$ conda deactivate
+[?2004l[?2004h(base) ]0;saikumar45@TIGER02568: ~[01;32msaikumar45@TIGER02568[00m:[01;34m~[00m$ conda info --envs
+[?2004l# conda environments:
+#
+base                  *  /home/saikumar45/miniconda3
+snakes                   /home/saikumar45/miniconda3/envs/snakes
+snowflakes               /home/saikumar45/miniconda3/envs/snowflakes
+
+[?2004h(base) ]0;saikumar45@TIGER02568: ~[01;32msaikumar45@TIGER02568[00m:[01;34m~[00m$ exit
+[?2004lexit
+
+Script done on 2023-10-12 12:14:26+05:30 [COMMAND_EXIT_CODE="0"]
